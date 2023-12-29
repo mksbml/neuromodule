@@ -1,0 +1,7 @@
+__pycache__
+.vscode
+json_database
+database.sql
+123.json
+log.log
+test.py
